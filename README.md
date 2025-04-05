@@ -12,7 +12,18 @@ structure. The intuition here is to explore whether the success found in applyin
 ### Data
 Three different forms of mental health datasets are leveraged in this analysis to cover an understanding of generalizability. For the purposes of time and , only **Student Dataset** is used to explore in-depth analytics, but all resources are considered for overall implications of study.
 
-- Student Dataset
+- **Student Dataset**
   - Student survey exploring the relationship of demographic, lifestyle and academic
 factors on depression.
-  - https://www.kaggle.com/datasets/ikynahidwin/depression-student-dataset 
+  - https://www.kaggle.com/datasets/ikynahidwin/depression-student-dataset
+- **Synthetic Dataset**
+  -  Synthetic mental health dataset containing simulated patient conditions related to
+mental health with diagnostic and treatment recommendation information
+  - https://www.kaggle.com/datasets/anweshaghosh123/mental-health-synthetic-dataset
+- **DSM Dataset**
+  -  DSM-5 based questionnaire used to diagnose PTSD, Bi-Polar Disorder,
+Depression, Anxiety Disorder, and Schizophrenia based on specified symptoms
+  - https://www.kaggle.com/datasets/karanbakshi1/mental-illness-dataset
+
+### Methodology 
+Our analysis focuses on understanding whether local or global patterns in the data are more influential in helping approximate missing data.  
