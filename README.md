@@ -10,3 +10,9 @@ imputation techniques that rely more heavily on local patterns rather than a dat
 structure. The intuition here is to explore whether the success found in applying matrix completion to traditional medical diagnostics can be (somewhat) replicated in the domain of mental health, where the data in question is much more susceptible to random variability due to its inherent self-report and highly qualitative nature.
 
 ### Data
+Three different forms of mental health datasets are leveraged in this analysis to cover an understanding of generalizability. For the purposes of time and , only **Student Dataset** is used to explore in-depth analytics, but all resources are considered for overall implications of study.
+
+- Student Dataset
+  - Student survey exploring the relationship of demographic, lifestyle and academic
+factors on depression.
+  - https://www.kaggle.com/datasets/ikynahidwin/depression-student-dataset 
